@@ -11,6 +11,6 @@ export class Cliente{
 
     autenticar(senha){
         return senha == this._senha;
-        // return true;
     }
+
 }
